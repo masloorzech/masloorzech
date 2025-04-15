@@ -1,8 +1,5 @@
 
 ##### 🔭 I’m currently working on AIcomposer, a music creation network, Dietetic+, a website project, and a game in Godot.
-##### 🌱 I’m currently learning more about network programming and web development.
-##### 👯 I’m looking to collaborate on game development, music tech, and web projects.
-##### 🤔 I’m looking for help with optimizing networking protocols and integrating music creation tools.
 ##### 💬 Ask me about game engines, Python, C/C++, OpenGL, Vulkan, or network programming.
 ##### 📫 How to reach me: antoniiwan02@gmail.com
 ##### 😄 Pronouns: He/Him
