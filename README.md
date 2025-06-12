@@ -11,37 +11,6 @@ I’m a passionate programmer working on a variety of exciting projects. Feel fr
 
 ---
 
-## 🚀 Here are a few of my public repositories:
-
-🎮 **Blockblast PC**  
-A fun block puzzle game where players arrange blocks to clear rows or columns. Built in **Java** for **PC**.
-
-🖩 **Calculator**  
-A simple **Android** calculator app, built in **Kotlin**.
-
-⚙️ **Raycaster**  
-A **C** project that demonstrates the basics of **3D rendering** through raycasting.
-
-🎮+⚙️ **Snake**  
-A classic **Snake** game in **C**, with **OpenGL** rendering for smooth gameplay.
-
-🎮 **Tetris**  
-A **Tetris** clone, built in **Java** for **PC**. Classic puzzle fun!
-
-📦 **Student-Attendance**  
-An attendance management system for **students** and **teachers**. Students can check attendance on the website, while teachers manage groups, terms, and attendance data.
-
-🤖 **AIComposer**  
-A music creation network project currently in development. **Auron** will allow users to create, share music, and collaborate online, unlocking new ways to produce music!
-
-📦 **Dietetician+**  
-A health-focused website that helps users with **dietary planning** and **progress tracking**. Personalized advice and tailored tools to improve your well-being!
-
-🎮 **Godot Game**  
-Currently working on a **Godot Engine** game. Expect **engaging mechanics**, interactive storytelling, and fun gameplay!
-
----
-
 ## 💻 Technologies I Work With:
 
 - **Python**, **C**, **C++**
