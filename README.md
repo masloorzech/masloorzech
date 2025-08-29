@@ -22,12 +22,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=masloorzech&layout=compact&langs_count=10&theme=tokyonight&cache_seconds=7200" alt="Top Langs" />
 </p>
 
-<h3 align="left">📊 GitHub Stats</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=masloorzech&show_icons=true&theme=tokyonight&cache_seconds=7200" alt="stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=masloorzech&theme=tokyonight" alt="streak" />
-</p>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=masloorzech&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
 </p>
