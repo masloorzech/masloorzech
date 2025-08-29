@@ -1,32 +1,38 @@
+##### 🔭 Currently working on an **AI-powered communication tool**  
+##### 💬 Ask me about **game engines, Python, C/C++, OpenGL, Vulkan, or network programming**  
+##### 📫 How to reach me: **antoniiwan02@gmail.com**  
+##### 😄 Pronouns: **He/Him**  
+##### ⚡ Fun fact: I love combining creativity with programming. From game engines to music networks, I enjoy exploring new ways to make cool things!  
 
-##### 🔭 I’m currently working on AIcomposer, a music creation network, Dietetic+, a website project, and a game in Godot.
-##### 💬 Ask me about game engines, Python, C/C++, OpenGL, Vulkan, or network programming.
-##### 📫 How to reach me: antoniiwan02@gmail.com
-##### 😄 Pronouns: He/Him
-##### ⚡ Fun fact: I love combining creativity with programming. From game engines to music networks, I enjoy exploring new ways to make cool things!
-
-# 🚀 Welcome to My GitHub Profile! 🚀
-
-I’m a passionate programmer working on a variety of exciting projects. Feel free to explore my repositories below and get in touch if you'd like to collaborate or discuss anything!
+<h3 align="left">💻 Languages</h3>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="Swift" width="40" height="40"/>
+</p>
 
 ---
 
-## 💻 Technologies I Work With:
+<h3 align="left">📦 Code by Language</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=masloorzech&layout=compact&langs_count=10&theme=tokyonight&cache_seconds=7200" alt="Top Langs" />
+</p>
 
-- **Python**, **C**, **C++**
-- **Kotlin**, **Java**
-- **OpenGL**, **Vulkan**
-- **Godot Engine**
-- **Android Studio**, **GitFlow**
+<h3 align="left">📊 GitHub Stats</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=masloorzech&show_icons=true&theme=tokyonight&cache_seconds=7200" alt="stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=masloorzech&theme=tokyonight" alt="streak" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=masloorzech&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
+</p>
 
 ---
 
 ## 📬 Contact Me
-
-Feel free to reach out if you’d like to discuss my projects, collaborate, or chat about anything programming-related!
-
-- **Email**: antoniiwan02@gmail.com
-
----
-
-Thanks for visiting my profile! Let’s create something awesome together! 😊
+- **Email**: antoniiwan02@gmail.com  
