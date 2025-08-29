@@ -25,8 +25,3 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=masloorzech&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
 </p>
-
----
-
-## 📬 Contact Me
-- **Email**: antoniiwan02@gmail.com  
