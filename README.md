@@ -1,8 +1,17 @@
-##### 🔭 Currently working on an **AI-powered communication tool**  
-##### 💬 Ask me about **game engines, Python, C/C++, OpenGL, Vulkan, or network programming**  
-##### 📫 How to reach me: **antoniiwan02@gmail.com**  
-##### 😄 Pronouns: **He/Him**  
-##### ⚡ Fun fact: I love combining creativity with programming. From game engines to music networks, I enjoy exploring new ways to make cool things!  
+# 👋 Hey, I'm Antony 
+I'm a computer science student who likes building… pretty much anything.
+From low-level C/C++, through game engines and graphics, to mobile apps and real-time communication tools — if something sounds fun or challenging, I’ll probably try to make it.
+
+I enjoy projects that actually do something, whether it's a tiny utility, a game, or a full app someone could use every day.
+
+# 🔭 What I’m currently working on
+
+💬 iOS chat app (my engineering thesis)
+A Messenger-style chat built with Swift + Firebase.
+Real-time messages, user auth, syncing, clean UI — basically learning how modern chats work under the hood.
+
+🍳 Pantry & recipe app
+Keeps track of what you have at home and suggests recipes based on your ingredients.
 
 <h3 align="left">💻 Languages</h3>
 <p align="left">
