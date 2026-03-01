@@ -6,12 +6,8 @@ I enjoy projects that actually do something, whether it's a tiny utility, a game
 
 # 🔭 What I’m currently working on
 
-💬 iOS chat app (my engineering thesis)
-A Messenger-style chat built with Swift + Firebase.
-Real-time messages, user auth, syncing, clean UI — basically learning how modern chats work under the hood.
-
-🍳 Pantry & recipe app
-Keeps track of what you have at home and suggests recipes based on your ingredients.
+Exploring new project ideas and experimenting with architecture patterns.  
+Always open to building something interesting. :P
 
 <h3 align="left">💻 Languages</h3>
 <p align="left">
