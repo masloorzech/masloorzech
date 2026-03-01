@@ -26,11 +26,6 @@ Keeps track of what you have at home and suggests recipes based on your ingredie
 
 ---
 
-<h3 align="left">📦 Code by Language</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=masloorzech&layout=compact&langs_count=10&theme=tokyonight&cache_seconds=7200" alt="Top Langs" />
-</p>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=masloorzech&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
 </p>
